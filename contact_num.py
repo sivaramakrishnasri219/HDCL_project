@@ -1,1 +1,1 @@
-print("Contact number: 123-456-7890")
+print("Contact number: 1234567890")
