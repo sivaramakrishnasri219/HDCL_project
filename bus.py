@@ -1,0 +1,5 @@
+print("Bus name: ABC Travels")
+print("Bus number: 1234")
+print("Departure time: 10:00 AM")
+print("Arrival time: 4:00 PM")
+print("Route: City A to City B")
